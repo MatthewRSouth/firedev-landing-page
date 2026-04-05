@@ -25,7 +25,7 @@ const notoSansJP = Noto_Sans_JP({
 export const metadata: Metadata = {
   title: "FireDev — Fast Websites for Growing Businesses",
   description:
-    "We build fast, professional websites for small businesses in Japan. Book a free discovery call today.",
+    "We build fast, professional websites for businesses worldwide, with deep expertise serving clients in Japan. Book a free discovery call today.",
 };
 
 export default function RootLayout({

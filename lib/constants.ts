@@ -3,7 +3,7 @@
 // Replace BOOKING_URL before launch (see CLAUDE.md checklist)
 // ============================================================
 
-export const BOOKING_URL = "https://calendly.com/YOUR_HANDLE";
+export const BOOKING_URL = "https://calendly.com/mattsouth4baseball";
 
 export const CONTACT_EMAIL = "hello@firedev.jp";
 
